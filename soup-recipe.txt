@@ -1,6 +1,7 @@
 Ingredients
 Leeks
 Potatoes
+olive oil
 Garlic
 Salt
 Pepper
@@ -8,7 +9,7 @@ Cream
 
 Wash and cut the leeks
 Wash, peel and chop the potatoes
-cook leeks with garlic
+cook leeks with garlic and olive oil
 Add the potatoes, salt, pepper
 Once cooked, puree the contents
 Add cream and serve
